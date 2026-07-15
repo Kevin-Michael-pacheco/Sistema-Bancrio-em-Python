@@ -38,7 +38,7 @@ git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
 Entre na pasta do projeto:
 
-cd NOME_DO_REPOSITORIO
+cd Sistema-Bancario-em-Python
 
 
 Execute o arquivo principal:
